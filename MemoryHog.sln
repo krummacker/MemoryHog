@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryHog", "MemoryHog\MemoryHog.csproj", "{7D8D38B8-3F28-457C-A411-8C9C751891AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D8D38B8-3F28-457C-A411-8C9C751891AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8D38B8-3F28-457C-A411-8C9C751891AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8D38B8-3F28-457C-A411-8C9C751891AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8D38B8-3F28-457C-A411-8C9C751891AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35488D13-3927-4E24-9E76-F4C391EBA343}
+	EndGlobalSection
+EndGlobal
